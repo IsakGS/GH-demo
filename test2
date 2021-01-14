@@ -1,14 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+
+<head>
     <meta charset="UTF-8" />
     <p>
-      Hei! Mitt navn er Isak, jeg er 23 år og kommer i fra Lillestrøm. Jeg liker
-      å se på fotball, spille golf og bruker mye tid med kjæreste og familie.
-      Jeg studerer E-business på høyskolen kristiania og trives godt med det.
-      Familie min har to hunder som heter Milla og Alma, Milla er eldst.
+        Hei! Mitt navn er Isak, jeg er 23 år og kommer i fra Lillestrøm. Jeg liker
+        å se på fotball, spille golf og bruker mye tid med kjæreste og familie.
+        Jeg studerer E-business på høyskolen kristiania og trives godt med det.
+        Familie min har to hunder som heter Milla og Alma, Milla er eldst. Jeg har 3 søsken, en søster og 2 brødre. De
+        heter Elias, Sofie og Jakob. Mammaen min heter Helle og faren min heter Sindre.
     </p>
-  </head>
+</head>
 
-  <body></body>
+<body></body>
+
 </html>
